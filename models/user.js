@@ -1,6 +1,6 @@
 var mongoose 	=	 require('mongoose');
 
-mongoose.connect('mongodb://admin:seth@ds147668.mlab.com:47668/leadershiplearning');
+mongoose.connect('mongodb://admin:god@ds249818.mlab.com:49818/userauth');
 
 var db 			=	 mongoose.connection;
 
