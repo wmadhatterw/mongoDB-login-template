@@ -2,7 +2,7 @@
   "name": "mongodb-login-template",
   "version": "1.0.0",
   "description": "Mongo DB Login authentication with passport and bcrypt",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
